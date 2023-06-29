@@ -17,6 +17,13 @@ font-size: 3.5rem !important;
 
 ---
 
+## Whos talking?
+
+Sebastian Flick
+I'm a frontend developer at [DSL](https://www.dsl.unibe.ch/) and [DH Bern](https://www.dh.unibe.ch/index_eng.html) at the University of Bern, Switzerland.
+
+I studied Philosophy, Linguistics and Computer Science but have also worked in the Industry for several years.
+
 ---
 
 ## From a devs view:
