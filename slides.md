@@ -12,7 +12,7 @@ Digital Humanities, University of Bern
 ---
 
 From a devs view:
-What are differences in the daily business?
+What are differences in the daily business? (**Roles and recognition**)
 
 - Emphasis on education and passing on knowledge even for devs
 - Much wider range of projects: Devs come in contact with a wide range of fields and need to be really flexible in their communication and problem solving skills
@@ -24,7 +24,7 @@ What are differences in the daily business?
 ---
 
 Perfect Environment for devs
-What's needed that developers enjoy working in the academia and stay?
+What's needed that developers enjoy working in the academia and stay? (**Roles and recognition**)
 
 - contracts for 4+ years
 - freedom of doing their work where, when and how it fits them the best
@@ -39,18 +39,19 @@ What's needed that developers enjoy working in the academia and stay?
 ---
 
 Perfect Environment for the academia
-We can significantly improve performance and quality of digital projects in labs.
+We can significantly improve performance and quality of digital projects in labs. (**Good practices in lab management**)
 
 - a team of experts in different fields is working together
 - this symbiosis enables people to do what they do best
+- Possibility to employ Junior-Devs
 - even smaller projects can get hold of this team
-- the lab can be better organized and therefore more efficiant than single developers
+- the lab can be better organized and therefore more efficient than single developers
 
 --> Strife for specialization
 
 ---
 
-Organization
+Organization (**Lab lifecycles, Good practices in lab management**)
 We have a lot of opportunities to develop workflows that streamline our work and make it less repetitive, more fun and better quality.
 
 - organize work through Github Projects, Jira, or other organization tools
