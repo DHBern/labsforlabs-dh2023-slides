@@ -66,7 +66,7 @@ We can significantly improve performance and quality of digital projects in labs
 - even smaller projects can get hold of this team
 - the lab can be better organized and therefore more efficient than single developers
 
-<div class="emphazise">--> Strife for specialization </div>
+<div class="emphazise">--> strife for specialization </div>
 
 ---
 
@@ -80,7 +80,13 @@ We have a lot of opportunities to develop workflows that streamline our work and
 - set timeframes for each task and milestone
 - define a responsible person per task
 
-<div class="emphazise">--> Adopt agile workflow</div>
+<div class="emphazise">--> adopt agile workflow</div>
+
+---
+
+- demand & support creativity
+- strife for specialization
+- adopt agile workflow
 
 ---
 
