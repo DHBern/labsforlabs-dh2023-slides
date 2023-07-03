@@ -1,7 +1,7 @@
 {
-  "name": "state-of-editions",
-  "version": "0.0.1",
-  "description": "slides for the course Create your personal Website",
+  "name": "labsforlabs-dh2023-slides",
+  "version": "0.1",
+  "description": "slides for Labs for Labs at DH2023 in Graz",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsl-unibe-ch/state-of-editions.git"
+    "url": "git+https://github.com/DHBern/labsforlabs-dh2023-slides.git"
   },
   "author": "Sebastian Flick",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dsl-unibe-ch/state-of-editions/issues"
+    "url": "https://github.com/DHBern/labsforlabs-dh2023-slides/issues"
   },
-  "homepage": "https://github.com/dsl-unibe-ch/state-of-editions#readme",
+  "homepage": "https://github.com/DHBern/labsforlabs-dh2023-slides#readme",
   "dependencies": {
     "eloc": "^1.3.2"
   }
