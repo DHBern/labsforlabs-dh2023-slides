@@ -40,7 +40,8 @@ private vs. academia: What are differences in the daily business?
 
 ## Perfect Environment for devs
 
-What's needed that developers enjoy working in the academia and stay? (**Roles and recognition**)
+What's needed that developers enjoy working in the academia and stay?  
+(**Roles and recognition**)
 
 ::
 
@@ -58,7 +59,8 @@ What's needed that developers enjoy working in the academia and stay? (**Roles a
 
 ## Perfect Environment for the academia
 
-We can significantly improve performance and quality of digital projects in labs. (**Good practices in lab management**)
+We can significantly improve performance and quality of digital projects in labs.  
+(**Good practices in lab management**)
 
 ::
 
@@ -74,7 +76,8 @@ We can significantly improve performance and quality of digital projects in labs
 
 ## Organization
 
-We have a lot of opportunities to develop workflows that streamline our work and make it less repetitive, more fun and better quality. (**Lab lifecycles, Good practices in lab management**)
+We have a lot of opportunities to develop workflows that streamline our work and make it less repetitive, more fun and better quality.  
+(**Lab lifecycles, Good practices in lab management**)
 
 ::
 
