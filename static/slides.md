@@ -100,7 +100,8 @@ We have a lot of opportunities to develop workflows that streamline our work and
 
 ---
 
-The slides to this presentation can be found here: https://github.com/DHBern/labsforlabs-dh2023-slides
+The slides to this presentation can be found here: https://dhbern.github.io/labsforlabs-dh2023-slides/  
+[(github repo)](https://github.com/DHBern/labsforlabs-dh2023-slides)
 
 Find out more about the **DSL** and **DH Bern**:
 https://www.dsl.unibe.ch/
