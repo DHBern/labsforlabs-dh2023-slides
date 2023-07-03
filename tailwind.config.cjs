@@ -1,9 +1,12 @@
-/** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: ["./src/**/*.{svelte,js}"],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-	important: true,
-}
+/** @type {import('tailwindcss').Config}*/
+const config = {
+	content: ['./src/**/*.{html,js,svelte,ts}'],
+
+	theme: {
+		extend: {}
+	},
+
+	plugins: []
+};
+
+module.exports = config;
