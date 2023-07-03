@@ -62,7 +62,7 @@ We can significantly improve performance and quality of digital projects in labs
 
 - a team of experts in different fields is working together
 - this symbiosis enables people to do what they do best
-- Possibility to employ Junior-Devs
+- possibility to employ Junior Devs
 - even smaller projects can get hold of this team
 - the lab can be better organized and therefore more efficient than single developers
 
