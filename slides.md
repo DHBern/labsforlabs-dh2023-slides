@@ -7,7 +7,7 @@ Labs for Labs Workshop, DH2023, Graz
 10.07.2023
 
 Sebastian Flick;
-Digital Humanities, University of Bern
+Digital Humanities & Data Science Lab, University of Bern
 
 <style>
 h1 {
@@ -17,7 +17,7 @@ font-size: 3.5rem !important;
 
 ---
 
-## Whos talking?
+## Who's talking?
 
 Sebastian Flick
 
@@ -27,13 +27,13 @@ I studied Philosophy, Linguistics and Computer Science but have also worked in t
 
 ---
 
-## From a devs view:
+## From a dev's view:
 
 What are differences in the daily business? (**Roles and recognition**)
 
 - Emphasis on education and passing on knowledge even for devs
 - Much wider range of projects: Devs come in contact with a wide range of fields and need to be really flexible in their communication and problem-solving skills
-- Often more restrictive in a technological view. (Hosting has to be internal...)
+- Often frustrating organizational and technological bounds.
 - Often not as much time pressure
 
 <div class="emphazise">--> demand creativity</div>
@@ -84,7 +84,7 @@ We have a lot of opportunities to develop workflows that streamline our work and
 
 ---
 
-These slides to this presentation can be found here: https://github.com/DHBern/labsforlabs-dh2023-slides
+The slides to this presentation can be found here: https://github.com/DHBern/labsforlabs-dh2023-slides
 
 Find out more about the **DSL** and **DH Bern**:
 https://www.dsl.unibe.ch/
