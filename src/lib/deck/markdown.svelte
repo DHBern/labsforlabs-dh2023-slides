@@ -4,7 +4,7 @@
 </script>
 
 {#if external}
-	<section data-markdown={name} />
+	<section data-markdown={name} data-separator-vertical="^::" />
 {:else}
 	<section data-markdown>
 		<div data-template>

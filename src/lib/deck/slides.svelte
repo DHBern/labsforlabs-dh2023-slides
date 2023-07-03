@@ -19,6 +19,9 @@
 			autoAnimateDuration: 1,
 			hash: true,
             minScale: 0.1,
+			width: 960,
+			height: 800,
+
 			// controls: false,
 			// progress: false
 		})
