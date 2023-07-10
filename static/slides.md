@@ -1,6 +1,6 @@
 # Building a Positive Work Environment for Developers in Academia
 
-![unibe logo](https://www.unibe.ch/media/logo_unibern.png)
+<img src="https://www.unibe.ch/media/logo_unibern.png" alt="unibe logo" style="background-color: white; margin: 1em; border: 20px solid; border-radius: 18px;">
 
 Labs for Labs Workshop, DH2023, Graz
 
@@ -52,7 +52,7 @@ What's needed that developers enjoy working in the academia and stay?
   - possibility to work from home
   - free choice of tools
 - Encouragement to pass on their expertise
-- Tasks are organized together with superiors
+- Tasks are organized together with team-managers
 
 <div class="emphazise">➔ support creativity!</div>
 
