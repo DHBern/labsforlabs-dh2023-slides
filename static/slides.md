@@ -37,6 +37,8 @@ private vs. academia: What are differences in the daily business?
 
 <div class="emphazise">➔ demand creativity!</div>
 
+note: we need to demand more creativity from devs in a lab than in private, because of the differences between the private sector and an academic lab. These are...
+
 ---
 
 ## Perfect Environment for devs
@@ -56,6 +58,8 @@ What's needed that developers enjoy working in the academia and stay?
 
 <div class="emphazise">➔ support creativity!</div>
 
+note: we need to support the creativity we demand by doing these four points.
+
 ---
 
 ## Perfect Environment for the academia
@@ -73,7 +77,7 @@ We can significantly improve performance and quality of digital projects in labs
 
 <div class="emphazise">➔ strive for specialization!</div>
 
-note: specialization means: we have specialized roles. For example a project manager that keeps tracks of deadlines and has a broad overview. Communicates and organizes. Division in front- and backend/devops, senior devs support junior devs etc.
+note: when we strive for specialization, we can improve quality and performance of our lab and also make it more fun! specialization means: we have specialized roles. For example a project manager that keeps tracks of deadlines and has a broad overview. Communicates and organizes. Division in front- and backend/devops, senior devs support junior devs etc.
 
 ---
 
@@ -92,6 +96,8 @@ We have a lot of opportunities to develop workflows that streamline our work and
 
 <div class="emphazise">➔ adopt agile workflow!</div>
 
+note: we need to adopt at least some parts of a modern agile workflow to make life for devs easier. what we need to adopt:
+
 ---
 
 <div class="emphazise">
@@ -99,6 +105,8 @@ We have a lot of opportunities to develop workflows that streamline our work and
 ➔ strive for specialization<br>
 ➔ adopt agile workflow<br>
 </div>
+
+note: take home message
 
 ---
 
