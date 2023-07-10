@@ -96,7 +96,7 @@ We have a lot of opportunities to develop workflows that streamline our work and
 
 <div class="emphazise">
 ➔ demand & support creativity<br>
-➔ strife for specialization<br>
+➔ strive for specialization<br>
 ➔ adopt agile workflow<br>
 </div>
 
