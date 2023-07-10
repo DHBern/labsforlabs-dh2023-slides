@@ -71,7 +71,9 @@ We can significantly improve performance and quality of digital projects in labs
 - even smaller projects can get hold of this team
 - the lab can be better organized and therefore more efficient than single developers
 
-<div class="emphazise">➔ strife for specialization!</div>
+<div class="emphazise">➔ strive for specialization!</div>
+
+note: specialization means: we have specialized roles. For example a project manager that keeps tracks of deadlines and has a broad overview. Communicates and organizes. Division in front- and backend/devops, senior devs support junior devs etc.
 
 ---
 
