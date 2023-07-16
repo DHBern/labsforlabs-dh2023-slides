@@ -7,8 +7,7 @@ Labs for Labs Workshop, DH2023, Graz
 10.07.2023
 
 Sebastian Flick;  
-Digital Humanities & Data Science Lab  
-University of Bern
+DH & Data Science Lab, University of Bern
 
 <!-- ---
 
